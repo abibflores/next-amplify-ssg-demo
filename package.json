@@ -1,0 +1,27 @@
+{
+  "name": "next-amplify-ssg-demo",
+  "version": "1.0.0",
+  "description": "netx js with amplify ssg",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abibflores/next-amplify-ssg-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abibflores/next-amplify-ssg-demo/issues"
+  },
+  "homepage": "https://github.com/abibflores/next-amplify-ssg-demo#readme",
+  "dependencies": {
+    "next": "^11.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
